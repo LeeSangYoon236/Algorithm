@@ -12,5 +12,6 @@ public class BackJoon15894 {
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
         long N = Long.parseLong(st.nextToken());
         System.out.println(N * 4);
+
     }
 }
